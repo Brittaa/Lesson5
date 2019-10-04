@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{349CC71C-9388-453B-A956-C7480871C77C}|Default">
+  <MonoDevelop.Ide.ItemProperties.TASK PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ForLoop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson__5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TASK/Program.cs">
+    <Files>
+      <File FileName="Lesson_5/Program.cs" Line="9" Column="13" />
+      <File FileName="5.1/Program.cs" Line="43" Column="21" />
+      <File FileName="ForLoop/Program.cs" Line="40" Column="17" />
+      <File FileName="TASK/Program.cs" Line="44" Column="68" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson_5" expanded="True">
+            <Node name="5.1" expanded="True" />
+            <Node name="ForLoop" expanded="True" />
+            <Node name="Lesson_5" expanded="True" />
+            <Node name="TASK" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.5.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/Lesson_5/ForLoop/bin/Debug/netcoreapp2.1/ForLoop.deps.json
+/Users/Britta/Desktop/Lesson_5/ForLoop/bin/Debug/netcoreapp2.1/ForLoop.runtimeconfig.json
+/Users/Britta/Desktop/Lesson_5/ForLoop/bin/Debug/netcoreapp2.1/ForLoop.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson_5/ForLoop/bin/Debug/netcoreapp2.1/ForLoop.dll
+/Users/Britta/Desktop/Lesson_5/ForLoop/bin/Debug/netcoreapp2.1/ForLoop.pdb
+/Users/Britta/Desktop/Lesson_5/ForLoop/obj/Debug/netcoreapp2.1/ForLoop.csproj.CoreCompileInputs.cache
+/Users/Britta/Desktop/Lesson_5/ForLoop/obj/Debug/netcoreapp2.1/ForLoop.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson_5/ForLoop/obj/Debug/netcoreapp2.1/ForLoop.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson_5/ForLoop/obj/Debug/netcoreapp2.1/ForLoop.dll
+/Users/Britta/Desktop/Lesson_5/ForLoop/obj/Debug/netcoreapp2.1/ForLoop.pdb
+/Users/Britta/Desktop/Lesson_5/ForLoop/obj/Debug/netcoreapp2.1/ForLoop.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+/Users/Britta/Desktop/Lesson_5/TASK/obj/Debug/netcoreapp2.1/TASK.csproj.CoreCompileInputs.cache
+/Users/Britta/Desktop/Lesson_5/TASK/obj/Debug/netcoreapp2.1/TASK.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson_5/TASK/obj/Debug/netcoreapp2.1/TASK.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson_5/TASK/bin/Debug/netcoreapp2.1/TASK.deps.json
+/Users/Britta/Desktop/Lesson_5/TASK/bin/Debug/netcoreapp2.1/TASK.runtimeconfig.json
+/Users/Britta/Desktop/Lesson_5/TASK/bin/Debug/netcoreapp2.1/TASK.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson_5/TASK/bin/Debug/netcoreapp2.1/TASK.dll
+/Users/Britta/Desktop/Lesson_5/TASK/bin/Debug/netcoreapp2.1/TASK.pdb
+/Users/Britta/Desktop/Lesson_5/TASK/obj/Debug/netcoreapp2.1/TASK.dll
+/Users/Britta/Desktop/Lesson_5/TASK/obj/Debug/netcoreapp2.1/TASK.pdb
